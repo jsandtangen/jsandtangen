@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hei 👋<br><br>💻 Jeg utvikler for tiden ulike prosjekter som analyserer priser med Python og visualisering i Plotly.  <br><br>📚 Jeg lærer for tiden<br>Maskinlæring med scikit-learn og grunnleggende NLP-teknikker.   
+# Hei 👋<br><br>💻 Jeg utvikler for tiden ulike prosjekter med Python.  <br><br>📚 Jeg lærer for tiden hvordan jeg kan bruke maskinlæring og KI i prosjektene mine.   
 
 
 # 💻 Tech Stack:
