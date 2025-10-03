@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hei 👋<br><br>💻 Jeg utvikler for tiden ulike prosjekter med Python.  <br><br>📚 Jeg lærer for tiden hvordan jeg kan bruke maskinlæring og KI i prosjektene mine.   
+# Hei 👋<br><br>💻 Jeg utvikler for tiden ulike prosjekter med Python.  <br><br>📚 Jeg lærer for tiden hvordan jeg kan bruke maskinlæring og AI i prosjektene mine.   
 
 
 # 💻 Tech Stack:
