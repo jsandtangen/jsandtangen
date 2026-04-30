@@ -1,5 +1,5 @@
 # 💫 Om meg:
-Jeg jobber for tiden med ulike prosjekter innen datavitenskap
+Liker skjæringspunktet mellom AI, ML, deep learning og data science.
 
 
 # 💻 Tech Stack:
